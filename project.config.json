@@ -9,8 +9,8 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
-	"appid": "wxb9eb22375e8789a7",
-	"projectname": "douban",
+	"appid": "wx6488e3da11d91a50",
+	"projectname": "weapp-douban",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
